@@ -3,7 +3,6 @@
     "short_name": "No Border",
     "description": "A PWA with no borders, just like a native app!",
     "start_url": "/",
-    "display": "standalone",  // Ensures the app opens in a borderless window
     "background_color": "#f0f0f0",
     "theme_color": "#0078d4",
     "icons": [
